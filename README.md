@@ -14,14 +14,17 @@ I do things on the webs.
 **currently working on:**
 - next.js
 - react 
-- react-query 
+- react-query / swr / apollo-client
 - storybook
 - msw 
 - plop
+- sentry integration
 
 **up next:**
 - swc
 - vite 
+- nest.js
+- fastify 
 - others...
 
 ### Infrastructure
