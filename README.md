@@ -17,6 +17,7 @@ I do things on the webs.
 - react-query 
 - storybook
 - msw 
+- plop
 
 **up next:**
 - swc
@@ -47,3 +48,7 @@ I do things on the webs.
 - Canary and/or blue/green deployment with AWS ECR / ECS with node.js apps 
 - AWS synthetics
 - AWS service lens 
+
+### Career resources
+
+- [Favourite articles & books](https://github.com/Jareechang/awesome-technical-leadership-and-career-resources)
