@@ -30,6 +30,7 @@ I do things on the webs.
 ### Infrastructure
 
 - [tf-modules](https://github.com/Jareechang/tf-modules) ⭐️ 
+- [AWS ECS + next.js](https://github.com/Jareechang/ecs-nextjs) ⭐️ 
 - [Github actions](https://github.com/Jareechang/github-actions-demo)
 - [AWS CF + lambda edge](https://github.com/Jareechang/react-i18next-demo)
 - [MFE webpack 5 + AWS CF + lambda edge](https://github.com/Jareechang/webpack-5-mod-federation-poc)
