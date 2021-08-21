@@ -56,3 +56,14 @@ I do things on the webs.
 ### Career resources
 
 - [Favourite articles & books](https://github.com/Jareechang/awesome-technical-leadership-and-career-resources)
+
+### Quick links
+
+- [Forks](https://github.com/Jareechang?tab=repositories&q=&type=fork)
+ - [forks - react](https://github.com/Jareechang?tab=repositories&q=react&type=fork&language=&sort=)
+ - [forks - terraform](https://github.com/search?q=user%3AJareechang+in%3Areadme+%22terraform%22&type=repositories)
+- **Repos**
+ - [terraform](https://github.com/search?q=user%3AJareechang+in%3Areadme+%22terraform%22&type=repositories)
+ - [aws](https://github.com/search?q=user%3AJareechang+in%3Areadme++%22aws%22&type=Repositories)
+ - [react](https://github.com/search?p=2&q=user%3AJareechang+in%3Areadme++%22react%22&type=Repositories)
+
