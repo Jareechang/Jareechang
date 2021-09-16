@@ -12,6 +12,7 @@ I do things on the webs.
    - [emotion & material-ui integration](https://github.com/Jareechang/example-nextjs-emotion11-material-ui)
 
 **currently working on:**
+- esbuild
 - next.js
 - react 
 - react-query / swr / apollo-client
@@ -45,13 +46,16 @@ I do things on the webs.
 **currently working on:**
 
 - terraform modules
-
-**up next:**
-
 - AWS ECR / ECS with node.js apps 
 - Canary and/or blue/green deployment with AWS ECR / ECS with node.js apps 
 - AWS synthetics
+
+**up next:**
+
 - AWS service lens 
+- AWS Module with sqs retry tf module 
+- AWS Lambda CI/CD
+- AWS Database tech
 
 ### Career resources
 
