@@ -4,8 +4,7 @@
 
 ## Current interests
 
-Exploring new technologies in the JS/TS ecosystem and their integration with cloud native infrastructures. Most importantly, I love knowledge sharing and contributing to the communtiy.
-
+Learn. Grow. Share.
 
 ## Fresh Content
 
@@ -31,3 +30,9 @@ Exploring new technologies in the JS/TS ecosystem and their integration with clo
 <a href="https://www.jerrychang.ca/writing/introducing-aws-ecs-technical-series">
   <img src="https://www.jerrychang.ca/_next/image?url=%2Fimages%2Ffeatured-writing-ecs.webp&w=3840&q=75" />
 </a>
+
+## Follow Me
+
+- [Twitter - @probablynull](https://twitter.com/probablynull)
+- [Instagram - @probablynull](https://www.instagram.com/probablynull/)
+- [Twitter - Personal](https://twitter.com/jerry__chang)
