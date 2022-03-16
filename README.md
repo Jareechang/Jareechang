@@ -14,17 +14,20 @@ Exploring new technologies in the JS/TS ecosystem and their integration with clo
       <img src="https://www.jerrychang.ca/_next/image?url=%2Fimages%2Flatest-writing.webp&w=3840&q=75" />
     </a>
 </div>
+<br />
+<br />
 
 ## Technical Series 
 
-<div style="margin-top: 2rem;">
-    <a href="https://www.jerrychang.ca/writing/aws-aurora-technical-series">
-      <img src="https://www.jerrychang.ca/_next/image?url=%2Fimages%2Ffeatured-writing-aurora.webp&w=3840&q=75" />
-    </a>
-</div>
+<br />
+<br />
+<a href="https://www.jerrychang.ca/writing/aws-aurora-technical-series">
+  <img src="https://www.jerrychang.ca/_next/image?url=%2Fimages%2Ffeatured-writing-aurora.webp&w=3840&q=75" />
+</a>
 
-<div style="margin-top: 2rem;">
-    <a href="https://www.jerrychang.ca/writing/introducing-aws-ecs-technical-series">
-      <img src="https://www.jerrychang.ca/_next/image?url=%2Fimages%2Ffeatured-writing-ecs.webp&w=3840&q=75" />
-    </a>
-</div>
+<br />
+<br />
+
+<a href="https://www.jerrychang.ca/writing/introducing-aws-ecs-technical-series">
+  <img src="https://www.jerrychang.ca/_next/image?url=%2Fimages%2Ffeatured-writing-ecs.webp&w=3840&q=75" />
+</a>
