@@ -31,7 +31,7 @@ Learn. Grow. Share.
   <img src="https://www.jerrychang.ca/_next/image?url=%2Fimages%2Ffeatured-writing-ecs.webp&w=3840&q=75" />
 </a>
 
-## Stay up to date 
+## Stay up to date 👇
 
 - [Twitter - @probablynull](https://twitter.com/probablynull)
 - [Instagram - @probablynull](https://www.instagram.com/probablynull/)
