@@ -9,7 +9,7 @@ Learn. Grow. Share.
 ## Fresh Content
 
 <div style="padding-top: 2rem;">
-    <a href="https://www.jerrychang.ca/writing/astro-build">
+    <a href="https://www.jerrychang.ca/writing/a-primer-on-serverless">
       <img src="https://www.jerrychang.ca/_next/image?url=%2Fimages%2Flatest-writing.webp&w=3840&q=75" />
     </a>
 </div>
